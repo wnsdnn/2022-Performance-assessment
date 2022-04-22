@@ -19,9 +19,9 @@ a{display: block; width: 100%; height: 100%; text-decoration: none; color: inher
 body{font-family: 'nnn';}
 
 #app{position: relative; width: 100%; color: #333; overflow: hidden;}
-#app>.background-circle.main{position: absolute; width: 470px; height: 470px; top: 22%; right: 12%; background: rgb(247, 164, 0); border-radius: 50%; z-index: -2;}
-#app>.background-circle2.main{position: absolute; width: 900px; height: 900px; top: 38%; left: -35%; background: rgb(247, 164, 0); border-radius: 50%; z-index: -2;}
-#app>.background-circle3.main{position: absolute; width: 1450px; height: 1450px; top: 55%; right: -60%; background: rgb(247, 164, 0); border-radius: 50%; z-index: -2;}
+#app>.background-circle.main{position: absolute; width: 470px; height: 470px; top: 22%; right: 12%; background: rgb(255, 233, 189); border-radius: 50%; z-index: -2;}
+#app>.background-circle2.main{position: absolute; width: 900px; height: 900px; top: 38%; left: -35%; background: rgb(255, 233, 189); border-radius: 50%; z-index: -2;}
+#app>.background-circle3.main{position: absolute; width: 1450px; height: 1450px; top: 55%; right: -60%; background: rgb(255, 233, 189); border-radius: 50%; z-index: -2;}
 #app .container{width: 100%; margin: 0 auto;}
 
 header{position: fixed; width: 100%; height: 80px; line-height: 80px; background: #fff; border-bottom: 2px solid #eee; z-index: 5;}
